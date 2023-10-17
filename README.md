@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🐮  I’m looking for help with advanced programming concepts and techniques in Python and other programming languages.
 
-- 📫 How to reach me: You can contact me through my email vitorcarvalho67@gmail.com or via my GitHub profile VitorCarvalho67.
+- 📫 How to reach me: You can contact me through my email srcarvalhox@proton.me or via my GitHub profile VitorCarvalho67.
 
 - 🤖 Pronouns: he/him
 - ⚡ Fun fact: In my free time, I enjoy playing video games and reading about the latest advancements in technology.

@@ -1,4 +1,4 @@
-# 🐱‍👤 About Me:
+# <img src="https://github.githubassets.com/images/mona-whisper.gif" height="48" /> About Me:
 
 My name is **Vitor Carvalho** and I'm a 17-year-old student interested in Data Science. I'm currently focused on learning how to program new technologies and develop my skills in this area.
 Here are some ideas to get you started:

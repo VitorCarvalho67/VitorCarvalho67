@@ -1,6 +1,6 @@
 # 🐱‍👤 About Me:
 
-My name is **Vitor Carvalho** and I'm a 16-year-old student interested in Data Science. I'm currently focused on learning how to program new technologies and develop my skills in this area.
+My name is **Vitor Carvalho** and I'm a 17-year-old student interested in Data Science. I'm currently focused on learning how to program new technologies and develop my skills in this area.
 Here are some ideas to get you started:
 
 - 🐡  I’m currently working on improving my programming skills and learning more about data analysis and machine learning.

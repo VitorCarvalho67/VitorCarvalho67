@@ -21,10 +21,11 @@ My name is Vitor Carvalho and I am a 17-year-old student interested in full stac
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitorcarvalho67&theme=react&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitorcarvalho67&theme=react&hide_border=false" style="width: 410px;"/>
   &nbsp;
   <a href="https://discord.com/users/614594636169609216">
-    <img src="https://lanyard.cnrad.dev/api/614594636169609216" alt="Discord Presence">
-</a>
+    <img src="https://lanyard.cnrad.dev/api/614594636169609216" alt="Discord Presence" style="width: 310px;">
+  </a>
 </p>
+
 

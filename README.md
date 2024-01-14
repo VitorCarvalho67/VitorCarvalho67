@@ -12,7 +12,6 @@ My name is Vitor Carvalho and I am a 17-year-old student interested in full stac
 
 - 📫 How to reach me: You can contact me through my email srcarvalhox@proton.me or via my GitHub profile VitorCarvalho67.
 
-- 🤖 Pronouns: he/him
 - ⚡ Fun fact: in my free time, I like to play games, read about the latest advances in technology and what's happening in the world.
 
 
@@ -23,5 +22,9 @@ My name is Vitor Carvalho and I am a 17-year-old student interested in full stac
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitorcarvalho67&theme=react&hide_border=false"/>
+  &nbsp;
+  <a href="https://discord.com/users/614594636169609216">
+    <img src="https://lanyard.cnrad.dev/api/614594636169609216" alt="Discord Presence">
+</a>
 </p>
 

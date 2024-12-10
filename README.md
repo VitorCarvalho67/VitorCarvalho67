@@ -1,6 +1,6 @@
 # <img src="https://github.githubassets.com/images/mona-whisper.gif" height="48" /> About Me: <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=VitorCarvalho67&label=Profile%20Views&color=6&pretty=false"/></a>
 
-My name is Vitor Carvalho and I am a 17-year-old student interested in full stack and machine learning projects. I am currently focused on learning to program new technologies and developing my skills in this area. Here are some ideas to get you started:
+My name is Vitor Carvalho and I am a 18-year-old student interested in full stack and machine learning projects. I am currently focused on learning to program new technologies and developing my skills in this area. Here are some ideas to get you started:
 
 - 🐡  I'm currently working to improve my programming skills and learn more about server side performance and DevOps.
 
